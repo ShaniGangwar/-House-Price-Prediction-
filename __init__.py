@@ -1,0 +1,3 @@
+"""
+SmartHouse AI Backend Package
+"""
